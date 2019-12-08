@@ -74,3 +74,4 @@ gem 'will_paginate', '~> 3.2', '>= 3.2.1'
 
 gem 'simple_form'
 
+gem "font-awesome-rails"
